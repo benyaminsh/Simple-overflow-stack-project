@@ -1,7 +1,7 @@
 # Simple overflow stack project
 
 
-## Description :
+### Description :
 #### This is a simple example of an overflow stack and I don't intend to build a complete overflow stack and this was a practice project.
 
 #### Python Version : 3.10
@@ -13,7 +13,7 @@
 ## install Packages :
     pip install -r requirements.txt
 
-### Run Project
+## Run Project
     python manage.py makemigrations
     
     python manage.py migrate
